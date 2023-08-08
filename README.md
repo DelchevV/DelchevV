@@ -25,7 +25,11 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/veselin-delchev-09513a232/) | [Instagram](https://www.instagram.com/delchev.v/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/veselin-delchev-09513a232/)](https://www.linkedin.com/in/veselin-delchev-09513a232/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/delchev.v/)](https://www.instagram.com/delchev.v/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+![Total Commits](https://img.shields.io/github/commit-activity/m/YourGitHubUsername/YourGitHubUsername?color=green)
 
 
 
