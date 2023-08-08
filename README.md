@@ -27,8 +27,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/veselin-delchev-09513a232/) | [Instagram](https://www.instagram.com/delchev.v/)
 
-## 📊 GitHub Stats
 
-![Veselin Delchev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
-<!-- Feel free to add more sections and personalize the README as you like! -->
+
+
+
