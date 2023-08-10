@@ -25,8 +25,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/veselin-delchev-09513a232/)](https://www.linkedin.com/in/veselin-delchev-09513a232/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/delchev.v/)](https://www.instagram.com/delchev.v/)
+[![Instagram](https://img.shields.io/badge/-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delchev.v/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veselin-delchev-09513a232/)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DelchevV)
