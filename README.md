@@ -32,4 +32,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DelchevV)
 
 
-<!-- Feel free to add more sections and personalize the README as you like! -->
+
