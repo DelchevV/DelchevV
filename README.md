@@ -16,7 +16,7 @@
 - 🖥️ Software Engineering Studies
 - 🎓 Expected Graduation: 2023
   
- ** 🎓['Paisii Hilendarski' university of Plovdiv]**
+ 🎓 **['Paisii Hilendarski' university of Plovdiv]**
 - 🎓 **Bachelor Degree** in Computer Science / Software technologies and desing
 - 🎓 Graduated: 2023
   
