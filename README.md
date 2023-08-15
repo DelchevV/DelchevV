@@ -12,12 +12,12 @@
 
 ## 🎓Education
  **Software University (SoftUni)**
-- Completed the Python Path
+- Completed the **Python Path**
 - Software Engineering Studies
 - Graduated: 2023
 
  **['Paisii Hilendarski' university of Plovdiv]**
-- [ Bachelor Degree in Computer Science / Software technologies and desing]
+- **Bachelor Degree** in Computer Science / Software technologies and desing
 - Graduated: [2023]
   
 ## 💼 Tech Stack
