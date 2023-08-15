@@ -18,7 +18,7 @@
 
  **['Paisii Hilendarski' university of Plovdiv]**
 - **Bachelor Degree** in Computer Science / Software technologies and desing
-- Graduated: [2023]
+- Graduated: 2023
   
 ## 💼 Tech Stack
 -
