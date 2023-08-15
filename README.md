@@ -10,8 +10,18 @@
 - 💪 Love working under pressure and finding solutions that make a difference.
 - 🤝 I'm a strong team player, collaboration fuels my creativity.
 
-## 💼 Tech Stack
+## 🎓Education
+ **Software University (SoftUni)**
+- Completed the Python Path
+- Software Engineering Studies
+- Graduated: 2023
 
+ **['Paisii Hilendarski' university of Plovdiv]**
+- [ Bachelor Degree in Computer Science / Software technologies and desing]
+- Graduated: [2023]
+  
+## 💼 Tech Stack
+-
 - Python 🐍 | Django 🌐
 - HTML & CSS 🎨 | JavaScript 💻
 - Docker 🐳 | PostgreSQL 🐘
