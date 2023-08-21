@@ -21,7 +21,7 @@
 - 🎓 Graduated: 2023
   
 ## 💼 Tech Stack
--
+
 - Python 🐍 | Django 🌐
 - HTML & CSS 🎨 | JavaScript 💻
 - Docker 🐳 | PostgreSQL 🐘
