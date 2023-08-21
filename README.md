@@ -13,8 +13,7 @@
 ## 🎓Education
  **Software University (SoftUni)**
 - 🐍 Completed the Python Path
-- 🖥️ Software Engineering Studies
-- 🎓 Expected Graduation: 2023
+- 🎓 Graduated: 2023
   
  🎓 **['Paisii Hilendarski' university of Plovdiv]**
 - 🎓 **Bachelor Degree** in Computer Science / Software technologies and desing
